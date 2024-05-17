@@ -1,0 +1,6 @@
+com\amigoscode\customer\Model\CustomerRegistrationRequest.class
+com\amigoscode\customer\controller\CustomerController.class
+com\amigoscode\customer\Model\Customer$CustomerBuilder.class
+com\amigoscode\customer\Model\Customer.class
+com\amigoscode\customer\CustomerApplication.class
+com\amigoscode\customer\service\CustomerService.class
